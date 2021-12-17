@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+*.zip
+*.csv
+*.xlsx
+*.xls
+data
+__pycache__
+Include
+Lib
+Scripts
+pyvenv.cfg 
+share
+etc
+.env
+deployment_steps.txt
