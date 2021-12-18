@@ -13,3 +13,4 @@ share
 etc
 .env
 deployment_steps.txt
+.pytest_cache
